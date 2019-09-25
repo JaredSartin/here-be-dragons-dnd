@@ -1,5 +1,23 @@
 body {
 	font-family: 'IM Fell DW Pica', serif;
-  background: black;
-  color: white;
+  background: #000;
+  color: #fff;
+}
+
+.parchment {
+  color: #000;
+  padding: 3em;
+  margin: 1em;
+
+  a {
+    color: #555;
+  }
+  svg {
+    position: absolute;
+    width: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 0;
+    z-index: -1;
+  }
 }
