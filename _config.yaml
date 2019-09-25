@@ -4,9 +4,11 @@ description: >
   consists of new and veteran players and is set in a whole new world of Nyr.
   Streams happen on Twitch.tv on the 1st and 3rd Saturdays of the month.
 links:
-- url: http://twitch.tv/HereBeDragonsDnD
+- url: https://twitch.tv/HereBeDragonsDnD
   image: twitch.png
-- url: http://twitch.tv/HereBeDragonsDnD
-  image: twitch.png
-
-# theme: custom
+- url: https://instagram.com/HereBeDragonsDnD
+  image: instagram.png
+- url: https://facebook.com/HereBeDragonsDnD
+  image: facebook.png
+- url: https://twitter.com/HereBDragonsDnD
+  image: twitter.png

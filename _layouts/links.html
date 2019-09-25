@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-<h1>IMG</h1>
+<img src="/assets/images/logo.png" class="logo" />
 <div>{{ content }}</div>
 <div class="links">
-LINKS HERE
+{% for social in site.social %}
+  <a href="{{ social.url }}"><img src="/assets/images/{{ social.image }}" /></a>
+{% endfor %}
 </div>
