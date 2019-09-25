@@ -4,7 +4,7 @@ layout: default
 <img src="/assets/images/logo.png" class="logo" />
 <div>{{ content }}</div>
 <div class="links">
-{% for social in site.social %}
+{% for social in site.social_links %}
   <a href="{{ social.url }}"><img src="/assets/images/{{ social.image }}" /></a>
 {% endfor %}
 </div>
