@@ -1,4 +1,5 @@
 ---
+layout: links
 ---
 
 We are a group of artists, actors, storytellers, and nerds. Our passion for
