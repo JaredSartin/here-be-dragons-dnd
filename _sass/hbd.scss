@@ -2,7 +2,7 @@ body {
 	font-family: 'IM Fell DW Pica', serif;
   background: #000;
   color: #fff;
-  background: radial-gradient(circle, transparent 50%, black 150%);
+  background: #303030,radial-gradient(circle, transparent 50%, black 150%);
 }
 
 img.logo {
@@ -42,4 +42,9 @@ img.logo {
     top: 0;
     z-index: -1;
   }
+}
+
+.copyright {
+  opacity: 0.75;
+  padding: 1em;
 }
