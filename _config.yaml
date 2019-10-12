@@ -20,3 +20,12 @@ social_links:
   image: facebook.png
 - url: https://www.amazon.com/hz/wishlist/ls/1FAAV1D2JC404?ref_=wl_share
   image: amazon.png
+podcasts:
+- url: https://podcasts.apple.com/us/podcast/here-be-dragons/id1482678783
+  image: pc-apple.png
+- url: https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9lY2ZjNmVjL3BvZGNhc3QvcnNz
+  image: pc-google.png
+- url: https://open.spotify.com/show/5CgomMdfRsakqofSocsnFZ
+  image: pc-spotify.png
+- url: https://anchor.fm/herebedragonsdnd
+  image: pc-anchor.png

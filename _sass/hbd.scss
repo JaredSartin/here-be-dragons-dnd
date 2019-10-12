@@ -14,6 +14,19 @@ img.logo {
   width: 80vw;
 }
 
+.podcasts {
+  text-align: center;
+  a {
+    display: block;
+    margin: 6px;
+    img {
+      max-width: 128px;
+      width: 20vw;
+      border-radius: 4px;
+    }
+  }
+}
+
 .links {
   text-align: center;
   a {
