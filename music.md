@@ -1,3 +1,6 @@
+#Music Licenses#
+Music used in our streams are royalty free use and belong to the author listed.
+
 The Descent by Kevin MacLeod
 Link: https://incompetech.filmmusic.io/song/4490-the-descent
 License: http://creativecommons.org/licenses/by/4.0/
