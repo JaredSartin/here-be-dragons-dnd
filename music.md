@@ -1,4 +1,4 @@
-#Music Licenses#
+# Music Licenses
 Music used in our streams are royalty free use and belong to the author listed.
 
 The Descent by Kevin MacLeod
